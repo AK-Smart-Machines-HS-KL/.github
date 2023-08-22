@@ -1,5 +1,7 @@
 # Arbeitskreis Smart Machines - Hochschule Kaiserslautern
 
+![AKLogo](https://github.com/AK-Smart-Machines-HS-KL/.github/assets/25372247/8ec8595d-6e33-4fee-b57a-8ab84bbe85f0)
+
 Der Arbeitskreis „Smart Machines“ der HS-KL widmet sich dem Thema Intelligente, Lernende und Interagierende Systeme und Roboter.
 
 Fachlich verstehen wir darunter die Integration von Hard- und Software aus den Informatik-Feldern Text- und Data Mining,
